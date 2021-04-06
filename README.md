@@ -1,6 +1,6 @@
 # Clone do site do Instagram :framed_picture:
 
-Projeto de recriação da página inicial do Instagram.
+Projeto de recriação da página de login do Instagram.
 
 Tecnologias usadas: HTML, CSS.
 
